@@ -14,7 +14,7 @@ Este sistema é voltado para uma academia pequena, para realizar:
 ### Funcionais
 - Cadastar, Listar, Editar Clientes e Funcionários
 - Cadastrar e Liberar Treinos
-- Cadatrar, Listar, Editar e Excluir Planos
+- Cadastrar, Listar, Editar e Excluir Planos
 - Cadastrar horários de funcionamento da empresa
 - Gerar relatórios
 - Criar treinos personalizados 
@@ -32,7 +32,15 @@ Este sistema é voltado para uma academia pequena, para realizar:
 ## Telas
 
 ###  Tela de Login
+Haverá barras para o preechimento de informações(CPF do funcionário, nome completo, telefone, cargo)
 
-haverá barras para o preechimento de informações(CPF, do funcionário 
 ### Tela de início
+Apresentará informações da situação físicas dos clientes ao personal, informações da jornada de trabalho do funcionário, lista de alunos e planos de pagamentos de cada um
+
+### Perfil do usuário
+Deve conter um espaço onde está as informações dos usuários e pode ser editadas por ele
+
+### Menu
+Dave conter: aba do
+### Configurações
 
